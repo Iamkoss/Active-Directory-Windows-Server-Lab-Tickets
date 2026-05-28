@@ -133,6 +133,7 @@ After installing your Windows Server, Active Directory is not enabled by default
 - Wait for installation to finish
 
 ![Active Directory Setup](images/56_AD_Setup_Picture56.png)
+
 ![Active Directory Setup](images/57_AD_Setup_Picture57.png)
 
 ### Step 18: Login into the Domain
