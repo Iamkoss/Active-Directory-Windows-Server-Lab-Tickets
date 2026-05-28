@@ -67,7 +67,7 @@ Windows Server 2022 is Microsoft’s enterprise level operating system designed 
 - Go to Microsoft Evaluation Center registration page.
 - Complete the registration form and click download now at the bottom: https://info.microsoft.com/ww-landing-windows-server-2022.html
 
-![Windows Evaluation Registration Form](images/07_Windows_Picture7.png)
+![Windows Evaluation Registration Form](images/07_Windows_ISO_Picture7.png)
 
 ### Step 2. Redirected to download page:
 
@@ -75,7 +75,7 @@ Windows Server 2022 is Microsoft’s enterprise level operating system designed 
 - You will be redirected to the download page: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
 - Choose "ISO downloads 64-bit edition" for your language.
 - Choose a location to save your file and the download will start in your browser.
-  ![Windows Server Downloads](images/08_Windows_Picture8.png)
+  ![Windows Server Downloads](images/08_Windows_ISO_Picture8.png)
 
 ## Creating a Virtual Machine Instance
 
@@ -136,15 +136,5 @@ Steps to Create a virtual machine instance and add ISO file
 
 - In Connection click ‘use ISO image file’. Your file directory will open.
 - Go to where you saved the Windows Server ISO you downloaded earlier and select it.
-- After that Click “Network Adapter” on the left.
 
 ![VM choosing iso file](images/17_VI_Picture17.png)
-
-### Step 10: Network connection
-
-- In the Network connection setting select "Bridged: connect directly to the physical network".
-- Using bridged allows the virtual machine to connect directly to your router. The VM will receive its own IP address from the router.
-- NAT – will allow the VM to share an IP address with the Host computer. As NAT the VM is invisible to all other devices on the network except the Host computer.
-- Then Click OK
-
-![VM bridge connection](images/18_VI_Picture18.png)

@@ -60,12 +60,3 @@ Steps to Create a virtual machine instance and Install Windows Server 2022
 - After that Click “Network Adapter” on the left.
 
 ![VM choosing iso file](images/17_VI_Picture17.png)
-
-### Step 10: Network connection
-
-- In the Network connection setting select "Bridged: connect directly to the physical network".
-- Using bridged allows the virtual machine to connect directly to your router. The VM will receive its own IP address from the router.
-- NAT – will allow the VM to share an IP address with the Host computer. As NAT the VM is invisible to all other devices on the network except the Host computer.
-- Then Click OK
-
-![VM bridge connection](images/18_VI_Picture18.png)

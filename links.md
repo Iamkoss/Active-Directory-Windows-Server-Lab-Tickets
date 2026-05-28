@@ -1,4 +1,4 @@
-# Links To Required Softwares
+# Links to Required Softwares & Resources
 
 ## VMware Workstation Pro
 
@@ -9,3 +9,7 @@
 - Windows ISO Registration Form: https://info.microsoft.com/ww-landing-windows-server-2022.html
 
 - Go to the official Microsoft download page: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
+
+## Spiceworks Ticketing System
+
+- Spiceworks ticketting System link - https://www.spiceworks.com/
